@@ -1,5 +1,11 @@
 # 💫 About Me:
-    💖 Hi, I'm Roseline<br>     🌍Based in south korea<br>🔭 I’m currently working on practicing projects to strenghten coding fundamentals.<br>👯 I’m looking to collaborate on building real world projects and complete full-stack courses.<br>🤝 I’m looking for opportunities to collaborate on real world projects and gain experience in backend and full stack development.<br>🌱 I’m currently learning Javascript and python<br>⚡ Fun fact- I believe consistency beats talent.
+    💖 Hi, I'm Roseline    
+    🌍Based in south korea
+    🔭 I’m currently working on practicing projects to strenghten coding fundamentals.
+    👯 I’m looking to collaborate on building real world projects and complete full-stack courses.
+    🤝 I’m looking for opportunities to collaborate on real world projects and gain experience in backend and full stack development.
+    🌱 I’m currently learning Javascript and python
+    ⚡ Fun fact- I believe consistency beats talent.
 
 
 ## 🌐 Socials:
